@@ -35,6 +35,9 @@ El objetivo no es solo limpiar este archivo, sino construir un proceso repetible
 
 ---
 
+# Video demostración
+![alt text](https://github.com/LW-Homeless/limpieza-csv-pandas/blob/main/Clean-csv.gif)
+
 ## Dataset
 
 [Messy Employee Dataset](https://www.kaggle.com/datasets/desolution01/messy-employee-dataset) — Kaggle
